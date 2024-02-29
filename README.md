@@ -1,4 +1,4 @@
-# Maigret
+# Maigret 2
 
 <p align="center">
   <p align="center">
